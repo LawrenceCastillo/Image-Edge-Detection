@@ -1,5 +1,5 @@
 # Image-Edge-Detection
-<p>Demonstration of filtering an image for edge detection.</p>
+<p>Demonstration of filtering an image for edge detection. See sample output below.</p>
 
 <p>Class assignment (Hunter College).</p>
 
